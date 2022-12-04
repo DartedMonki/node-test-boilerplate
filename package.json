@@ -1,0 +1,20 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "DartedMonki",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DartedMonki/node-test-boilerplate.git"
+  }
+}
